@@ -26,7 +26,6 @@ Dygraphs for plotting
 5. Run "Command Prompt Run/prophet.py" -- this starts the http server using python flask  
 6. Open the port on browser and use the site.  
 
-## Site available at: http://13.57.46.92:5000/ 
 ![Alt text](images/homepage.jpeg?raw=true) 
 
 In homepage, when the company ticker symbol is given, it fetches real time data using yahoo finance api.    
